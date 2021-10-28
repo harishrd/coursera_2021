@@ -58,7 +58,7 @@ span {
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
-    width: 31.33%;
+    width: 31%;
   }
 }
 /********** Medium devices only **********/
