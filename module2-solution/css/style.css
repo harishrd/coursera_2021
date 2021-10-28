@@ -34,23 +34,24 @@ span {
   font-variant: small-caps;
   font-weight: bolder;
   font-size: 25px;
-  color: black;
 }
 #Donut {
   background-color: #E6B7CA;
   text-align: center;
   width: 30%;
+  color: black;
 }
 #Sushi {
   background-color: #D87A59;
   text-align: center;
   width: 30%;
-  color: #FFFFFF;
+  color: white;
 }
 #Cake {
   background-color: #E9E3D4;
   text-align: center;
   width: 30%;
+  color: black;
 }
 .row {
   width: 100%;
