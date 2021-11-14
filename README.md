@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+Coursera:
+  Module 2 solution: https://harishrd.github.io/coursera_2021/module2-solution/
+  Module  solution: https://harishrd.github.io/coursera_2021/module3-solution/
+
 You can use the [editor on GitHub](https://github.com/harishrd/coursera_test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
