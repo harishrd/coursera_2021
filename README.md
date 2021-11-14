@@ -1,9 +1,14 @@
 ## Welcome to GitHub Pages
 
 Coursera:
+
   Module 2 solution: https://harishrd.github.io/coursera_2021/module2-solution/
+  
   Module 3 solution: https://harishrd.github.io/coursera_2021/module3-solution/
+  
   Module 4 solution: https://harishrd.github.io/coursera_2021/module4-solution/
+  
+  
 
 You can use the [editor on GitHub](https://github.com/harishrd/coursera_test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
