@@ -2,11 +2,11 @@
 
 # Coursera:
 
-  - **Module 2 solution:** [https://harishrd.github.io/coursera_2021/module2-solution/](url)
+  - **Module 2 solution:** https://harishrd.github.io/coursera_2021/module2-solution/
   
-  - **Module 3 solution:** [https://harishrd.github.io/coursera_2021/module3-solution/](url)
+  - **Module 3 solution:** https://harishrd.github.io/coursera_2021/module3-solution/
   
-  - **Module 4 solution:** [https://harishrd.github.io/coursera_2021/module4-solution/](url)
+  - **Module 4 solution:** https://harishrd.github.io/coursera_2021/module4-solution/
   
   
 
